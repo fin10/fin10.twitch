@@ -9,6 +9,7 @@
     "488552": ["Overwatch", "오버워치", "오버와치"],
     "506103": ["FIFA19", "피파19", "축구"],
     "512804": ["FIFA20", "피파20", "축구"],
+    "518204": ["FIFA21", "피파21", "축구"],
     "18122": ["World of Warcraft", "와우", "월드오브워크래프트", "wow"],
     "32982": ["Grand Theft Auto V", "그타5", "지티에이5", "GTA5"],
     "493057": ["pubg", "PLAYERUNKNOWN\"S BATTLEGROUNDS", "베틀그라운드", "배틀그라운드", "배그", "베그"],
@@ -24,6 +25,7 @@
     "490292": ["Dark Souls III", "Dark Souls 3", "다크소울3"],
     "506383": ["nba 2k19", "nba 19", "농구"],
     "513319": ["nba 2k20", "nba 20", "농구"],
+    "518023": ["nba 2k21", "nba 21", "농구"],
     "5492": ["Diablo", "디아블로"],
     "14304": ["Diablo II: Lord of Destruction", "디아블로2", "디아2"],
     "313558": ["Diablo III: Reaper of Souls", "디아블로3", "디아3"],
@@ -117,5 +119,10 @@
     "494364": ["Death Stranding", "데스 스탠딩", "배달"],
     "67972": ["GetAmped", "겟앰프드"],
     "509538": ["Animal Crossing: New Horizons", "동물의 숲", "동숲"],
-    "506442": ["Doom Eternal", "둠 이터널"]
+    "506442": ["Doom Eternal", "둠 이터널"],
+    "510218": ["Among Us", "어몽어스"],
+    "512895": ["Watch Dogs: Legion", "와치독스 리전"],
+    "516575": ["VALORANT", "발로란트"],
+    "512980": ["Fall Guys: Ultimate Knockout", "폴가이즈"],
+    "513181": ["Genshin Impact", "원신"]
 }
